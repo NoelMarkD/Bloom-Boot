@@ -1,0 +1,147 @@
+/* Header/Footer #26292E */
+ /* main #E7718B
+ light pink #FFFCFD */
+
+ /* icons */
+
+
+ .icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+  }
+  
+  /* ==========================================
+  Single-colored icons can be modified like so:
+  .icon-name {
+    font-size: 32px;
+    color: red;
+  }
+  ========================================== */
+  
+.icon-facebook {
+      color: #fff;
+      font-size: 20px;
+    
+}
+
+.icon-twitter {
+    color: #fff;
+    font-size: 20px;
+}
+
+.icon-rss {
+    color: #fff;
+    font-size: 20px;
+}
+
+.icon-cloud{
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    padding: 5px;
+}
+
+.icon-bubbles {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    padding: 5px;
+  }
+ 
+.icon-star {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    padding: 5px;
+  }
+
+.button {
+   background: #424242;
+   color: #fff;
+   padding: 10px;
+}
+
+.social-list {
+    display: flex;
+}
+
+.header {
+    background: #26292e;
+  }
+
+.nav {
+    margin-top: 10px;
+    margin-left: 300px;
+}
+
+h1 {
+    color: #fff;
+     font-family:'butterfly kids', cursive;
+ }
+
+ .social-list {
+    width: 180px;
+    list-style: none;
+}
+
+.section1 {
+    background: #E7718B;
+}
+
+.section3 {
+    background: #F6E6E9;
+}
+
+.laptop {
+    width: 450px;
+    height: 350px;
+}
+
+.product1 {
+    width:250px;
+    height:150px;
+}
+
+.product2 {
+    width:250px;
+    height:150px;
+    margin-top: 10px;
+}
+
+.product3 {
+    width:250px;
+    height:150px;
+}
+
+.product4 {
+    width:250px;
+    height:150px;
+    margin-top: 10px;
+}
+
+.footer {
+    background: #26292e;
+}
+
+.colophon-text {
+    margin-top: 10px;
+    color: #fff;
+}
+
+.footer-nav {
+    margin-left: 300px;
+}
+
